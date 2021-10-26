@@ -19,6 +19,8 @@ sites:
   - name: Image API
     url: https://images.stefftek.de/
     icon: https://raw.githubusercontent.com/SteffTek/Status/master/assets/favicon.png
+  - name: Internet Game
+    url: https://internet.stefftek.de/
   - name: UnTubed
     url: https://untubed.de/
     icon: https://untubed.de/images/favicon.png
