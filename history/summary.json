@@ -10,11 +10,11 @@
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 1169,
-    "timeDay": 823,
-    "timeWeek": 1856,
-    "timeMonth": 1201,
-    "timeYear": 1169,
+    "time": 1171,
+    "timeDay": 1243,
+    "timeWeek": 1904,
+    "timeMonth": 1215,
+    "timeYear": 1171,
     "dailyMinutesDown": {
       "2021-11-08": 21
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 533,
-    "timeDay": 480,
-    "timeWeek": 486,
-    "timeMonth": 532,
-    "timeYear": 533,
+    "time": 535,
+    "timeDay": 602,
+    "timeWeek": 496,
+    "timeMonth": 539,
+    "timeYear": 535,
     "dailyMinutesDown": {
       "2021-11-08": 17
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 477,
-    "timeDay": 437,
-    "timeWeek": 439,
-    "timeMonth": 484,
-    "timeYear": 477,
+    "time": 480,
+    "timeDay": 599,
+    "timeWeek": 457,
+    "timeMonth": 489,
+    "timeYear": 480,
     "dailyMinutesDown": {
       "2021-11-08": 17
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 1145,
-    "timeDay": 596,
-    "timeWeek": 660,
-    "timeMonth": 1242,
-    "timeYear": 1145,
+    "time": 1140,
+    "timeDay": 925,
+    "timeWeek": 684,
+    "timeMonth": 1251,
+    "timeYear": 1140,
     "dailyMinutesDown": {
       "2021-11-08": 17
     }
@@ -85,16 +85,16 @@
     "icon": "https://raw.githubusercontent.com/SteffTek/Status/master/assets/favicon.png",
     "slug": "image-api",
     "status": "up",
-    "uptime": "89.36%",
+    "uptime": "89.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "87.48%",
-    "uptimeYear": "89.36%",
-    "time": 495,
-    "timeDay": 461,
-    "timeWeek": 448,
-    "timeMonth": 497,
-    "timeYear": 495,
+    "uptimeYear": "89.65%",
+    "time": 496,
+    "timeDay": 547,
+    "timeWeek": 467,
+    "timeMonth": 500,
+    "timeYear": 496,
     "dailyMinutesDown": {
       "2021-11-08": 17,
       "2021-10-25": 500,
@@ -115,11 +115,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 487,
-    "timeDay": 456,
-    "timeWeek": 466,
-    "timeMonth": 487,
-    "timeYear": 487,
+    "time": 491,
+    "timeDay": 551,
+    "timeWeek": 476,
+    "timeMonth": 491,
+    "timeYear": 491,
     "dailyMinutesDown": {
       "2021-11-08": 17
     }
@@ -136,9 +136,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 553,
-    "timeDay": 462,
-    "timeWeek": 590,
-    "timeMonth": 560,
+    "timeDay": 544,
+    "timeWeek": 607,
+    "timeMonth": 564,
     "timeYear": 553,
     "dailyMinutesDown": {
       "2021-11-08": 17
@@ -155,11 +155,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 794,
-    "timeDay": 709,
-    "timeWeek": 703,
-    "timeMonth": 799,
-    "timeYear": 794,
+    "time": 796,
+    "timeDay": 868,
+    "timeWeek": 733,
+    "timeMonth": 806,
+    "timeYear": 796,
     "dailyMinutesDown": {
       "2021-11-08": 17
     }
@@ -175,11 +175,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 506,
-    "timeDay": 473,
-    "timeWeek": 460,
-    "timeMonth": 511,
-    "timeYear": 506,
+    "time": 507,
+    "timeDay": 536,
+    "timeWeek": 470,
+    "timeMonth": 514,
+    "timeYear": 507,
     "dailyMinutesDown": {
       "2021-11-08": 17
     }
