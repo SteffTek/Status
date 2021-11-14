@@ -10,11 +10,11 @@
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 1154,
-    "timeDay": 854,
-    "timeWeek": 1687,
+    "time": 1145,
+    "timeDay": 783,
+    "timeWeek": 1484,
     "timeMonth": 1204,
-    "timeYear": 1154,
+    "timeYear": 1145,
     "dailyMinutesDown": {
       "2021-11-08": 21
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 534,
-    "timeDay": 562,
-    "timeWeek": 508,
-    "timeMonth": 535,
-    "timeYear": 534,
+    "time": 532,
+    "timeDay": 468,
+    "timeWeek": 491,
+    "timeMonth": 534,
+    "timeYear": 532,
     "dailyMinutesDown": {
       "2021-11-08": 17
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 480,
-    "timeDay": 534,
-    "timeWeek": 471,
-    "timeMonth": 488,
-    "timeYear": 480,
+    "time": 478,
+    "timeDay": 389,
+    "timeWeek": 452,
+    "timeMonth": 487,
+    "timeYear": 478,
     "dailyMinutesDown": {
       "2021-11-08": 17
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 1121,
-    "timeDay": 790,
-    "timeWeek": 711,
-    "timeMonth": 1243,
-    "timeYear": 1121,
+    "time": 1110,
+    "timeDay": 620,
+    "timeWeek": 674,
+    "timeMonth": 768,
+    "timeYear": 1110,
     "dailyMinutesDown": {
       "2021-11-08": 17
     }
@@ -85,14 +85,14 @@
     "icon": "https://raw.githubusercontent.com/SteffTek/Status/master/assets/favicon.png",
     "slug": "image-api",
     "status": "up",
-    "uptime": "90.18%",
+    "uptime": "90.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "87.48%",
-    "uptimeYear": "90.18%",
+    "uptimeYear": "90.43%",
     "time": 495,
-    "timeDay": 568,
-    "timeWeek": 481,
+    "timeDay": 455,
+    "timeWeek": 464,
     "timeMonth": 497,
     "timeYear": 495,
     "dailyMinutesDown": {
@@ -110,16 +110,16 @@
     "icon": "https://favicons.githubusercontent.com/internet.stefftek.de",
     "slug": "internet-game",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 495,
-    "timeDay": 615,
-    "timeWeek": 499,
-    "timeMonth": 495,
-    "timeYear": 495,
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 490,
+    "timeDay": 378,
+    "timeWeek": 470,
+    "timeMonth": 490,
+    "timeYear": 490,
     "dailyMinutesDown": {
       "2021-11-08": 17
     }
@@ -135,11 +135,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 549,
-    "timeDay": 562,
-    "timeWeek": 507,
+    "time": 547,
+    "timeDay": 468,
+    "timeWeek": 485,
     "timeMonth": 557,
-    "timeYear": 549,
+    "timeYear": 547,
     "dailyMinutesDown": {
       "2021-11-08": 17
     }
@@ -155,11 +155,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 794,
-    "timeDay": 838,
-    "timeWeek": 754,
-    "timeMonth": 798,
-    "timeYear": 794,
+    "time": 792,
+    "timeDay": 696,
+    "timeWeek": 730,
+    "timeMonth": 799,
+    "timeYear": 792,
     "dailyMinutesDown": {
       "2021-11-08": 17
     }
@@ -175,11 +175,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 507,
-    "timeDay": 565,
-    "timeWeek": 484,
+    "time": 506,
+    "timeDay": 467,
+    "timeWeek": 469,
     "timeMonth": 510,
-    "timeYear": 507,
+    "timeYear": 506,
     "dailyMinutesDown": {
       "2021-11-08": 17
     }
