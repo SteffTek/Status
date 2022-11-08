@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 1004,
-    "timeDay": 930,
-    "timeWeek": 913,
-    "timeMonth": 856,
-    "timeYear": 999,
+    "timeDay": 988,
+    "timeWeek": 930,
+    "timeMonth": 863,
+    "timeYear": 992,
     "dailyMinutesDown": {
       "2022-07-01": 45,
       "2022-06-30": 18,
@@ -23,8 +23,7 @@
       "2022-06-21": 77,
       "2022-06-09": 23,
       "2022-06-02": 24,
-      "2022-05-28": 23,
-      "2021-11-08": 21
+      "2022-05-28": 23
     }
   },
   {
@@ -38,11 +37,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 1090,
-    "timeDay": 1392,
-    "timeWeek": 1298,
-    "timeMonth": 1297,
-    "timeYear": 1141,
+    "time": 1091,
+    "timeDay": 1423,
+    "timeWeek": 1278,
+    "timeMonth": 1308,
+    "timeYear": 1144,
     "dailyMinutesDown": {
       "2022-10-05": 37,
       "2022-09-01": 134,
@@ -53,8 +52,7 @@
       "2022-06-07": 59,
       "2022-05-28": 23,
       "2022-04-26": 39,
-      "2021-11-20": 44,
-      "2021-11-08": 17
+      "2021-11-20": 44
     }
   },
   {
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.52%",
-    "time": 302,
-    "timeDay": 167,
-    "timeWeek": 151,
-    "timeMonth": 149,
-    "timeYear": 285,
+    "time": 301,
+    "timeDay": 145,
+    "timeWeek": 148,
+    "timeMonth": 150,
+    "timeYear": 284,
     "dailyMinutesDown": {
       "2022-10-05": 37,
       "2022-09-01": 133,
@@ -84,8 +82,7 @@
       "2022-05-28": 23,
       "2022-04-26": 38,
       "2021-11-20": 1191,
-      "2021-11-19": 877,
-      "2021-11-08": 17
+      "2021-11-19": 877
     }
   },
   {
@@ -94,16 +91,16 @@
     "icon": "https://virginslayer.app/images/favicon.png",
     "slug": "virgin-slayer-v3-api",
     "status": "up",
-    "uptime": "98.61%",
+    "uptime": "98.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.49%",
     "time": 905,
-    "timeDay": 1035,
-    "timeWeek": 926,
-    "timeMonth": 911,
-    "timeYear": 876,
+    "timeDay": 1111,
+    "timeWeek": 924,
+    "timeMonth": 923,
+    "timeYear": 877,
     "dailyMinutesDown": {
       "2022-10-05": 37,
       "2022-09-01": 131,
@@ -119,8 +116,7 @@
       "2022-04-26": 38,
       "2022-02-01": 23,
       "2021-11-20": 1191,
-      "2021-11-19": 877,
-      "2021-11-08": 17
+      "2021-11-19": 877
     }
   },
   {
@@ -129,18 +125,19 @@
     "icon": "https://raw.githubusercontent.com/SteffTek/Status/master/assets/favicon.png",
     "slug": "image-api",
     "status": "down",
-    "uptime": "63.67%",
+    "uptime": "63.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "61.45%",
+    "uptimeYear": "61.17%",
     "time": 613,
-    "timeDay": 696,
-    "timeWeek": 663,
-    "timeMonth": 670,
-    "timeYear": 624,
+    "timeDay": 749,
+    "timeWeek": 676,
+    "timeMonth": 676,
+    "timeYear": 625,
     "dailyMinutesDown": {
-      "2022-11-07": 51,
+      "2022-11-08": 52,
+      "2022-11-07": 1440,
       "2022-11-06": 1440,
       "2022-11-05": 1440,
       "2022-11-04": 1440,
@@ -284,8 +281,7 @@
       "2022-06-19": 842,
       "2022-06-07": 55,
       "2022-05-28": 23,
-      "2021-11-20": 44,
-      "2021-11-08": 17
+      "2021-11-20": 44
     }
   },
   {
@@ -294,18 +290,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/internet.stefftek.de.ico",
     "slug": "internet-game",
     "status": "down",
-    "uptime": "47.20%",
+    "uptime": "47.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "45.52%",
+    "uptimeYear": "45.25%",
     "time": 620,
-    "timeDay": 781,
-    "timeWeek": 669,
-    "timeMonth": 652,
-    "timeYear": 624,
+    "timeDay": 736,
+    "timeWeek": 671,
+    "timeMonth": 658,
+    "timeYear": 625,
     "dailyMinutesDown": {
-      "2022-11-07": 51,
+      "2022-11-08": 52,
+      "2022-11-07": 1440,
       "2022-11-06": 1440,
       "2022-11-05": 1440,
       "2022-11-04": 1440,
@@ -507,8 +504,7 @@
       "2021-11-23": 1440,
       "2021-11-22": 1440,
       "2021-11-21": 1440,
-      "2021-11-20": 311,
-      "2021-11-08": 17
+      "2021-11-20": 311
     }
   },
   {
@@ -517,18 +513,19 @@
     "icon": "https://untubed.de/images/favicon.png",
     "slug": "un-tubed",
     "status": "down",
-    "uptime": "71.43%",
+    "uptime": "71.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "68.86%",
+    "uptimeYear": "68.59%",
     "time": 641,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 652,
     "dailyMinutesDown": {
-      "2022-11-07": 51,
+      "2022-11-08": 52,
+      "2022-11-07": 1440,
       "2022-11-06": 1440,
       "2022-11-05": 1440,
       "2022-11-04": 1440,
@@ -649,8 +646,7 @@
       "2022-06-19": 39,
       "2022-06-07": 52,
       "2022-05-28": 23,
-      "2022-01-04": 20,
-      "2021-11-08": 17
+      "2022-01-04": 20
     }
   },
   {
@@ -659,18 +655,19 @@
     "icon": "https://untubed.de/images/favicon.png",
     "slug": "un-tubed-api",
     "status": "down",
-    "uptime": "71.42%",
+    "uptime": "71.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "68.85%",
+    "uptimeYear": "68.58%",
     "time": 877,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 886,
     "dailyMinutesDown": {
-      "2022-11-07": 51,
+      "2022-11-08": 52,
+      "2022-11-07": 1440,
       "2022-11-06": 1440,
       "2022-11-05": 1440,
       "2022-11-04": 1440,
@@ -793,8 +790,7 @@
       "2022-05-28": 23,
       "2022-01-18": 26,
       "2022-01-04": 20,
-      "2021-11-20": 20,
-      "2021-11-08": 17
+      "2021-11-20": 20
     }
   },
   {
@@ -803,18 +799,19 @@
     "icon": "https://untubed.de/images/favicon.png",
     "slug": "un-tubed-webhook",
     "status": "down",
-    "uptime": "71.44%",
+    "uptime": "71.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "68.87%",
+    "uptimeYear": "68.59%",
     "time": 647,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 664,
+    "timeYear": 665,
     "dailyMinutesDown": {
-      "2022-11-07": 51,
+      "2022-11-08": 52,
+      "2022-11-07": 1440,
       "2022-11-06": 1440,
       "2022-11-05": 1440,
       "2022-11-04": 1440,
@@ -934,8 +931,7 @@
       "2022-06-21": 17,
       "2022-06-19": 36,
       "2022-06-07": 49,
-      "2022-05-28": 23,
-      "2021-11-08": 17
+      "2022-05-28": 23
     }
   }
 ]
