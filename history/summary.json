@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.13%",
     "uptimeYear": "99.88%",
-    "time": 935,
-    "timeDay": 493,
-    "timeWeek": 694,
-    "timeMonth": 765,
+    "time": 934,
+    "timeDay": 1011,
+    "timeWeek": 716,
+    "timeMonth": 772,
     "timeYear": 902,
     "dailyMinutesDown": {
       "2023-05-14": 380,
@@ -36,11 +36,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.01%",
-    "time": 1295,
-    "timeDay": 1650,
-    "timeWeek": 1523,
-    "timeMonth": 1461,
-    "timeYear": 1310,
+    "time": 1296,
+    "timeDay": 1541,
+    "timeWeek": 1510,
+    "timeMonth": 1476,
+    "timeYear": 1311,
     "dailyMinutesDown": {
       "2023-03-07": 16,
       "2023-02-03": 1168,
@@ -52,8 +52,7 @@
       "2022-07-01": 45,
       "2022-06-30": 18,
       "2022-06-21": 49,
-      "2022-06-19": 47,
-      "2022-06-07": 59
+      "2022-06-19": 47
     }
   },
   {
@@ -62,15 +61,15 @@
     "icon": "https://virginslayer.app/images/favicon.png",
     "slug": "virgin-slayer-v3",
     "status": "up",
-    "uptime": "99.16%",
+    "uptime": "99.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.01%",
     "time": 184,
-    "timeDay": 158,
-    "timeWeek": 167,
-    "timeMonth": 163,
+    "timeDay": 165,
+    "timeWeek": 164,
+    "timeMonth": 165,
     "timeYear": 197,
     "dailyMinutesDown": {
       "2023-02-03": 1168,
@@ -82,8 +81,7 @@
       "2022-07-01": 45,
       "2022-06-30": 18,
       "2022-06-21": 49,
-      "2022-06-19": 45,
-      "2022-06-07": 58
+      "2022-06-19": 45
     }
   },
   {
@@ -97,10 +95,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.99%",
-    "time": 968,
-    "timeDay": 1113,
-    "timeWeek": 1138,
-    "timeMonth": 1037,
+    "time": 969,
+    "timeDay": 1067,
+    "timeWeek": 1134,
+    "timeMonth": 1047,
     "timeYear": 994,
     "dailyMinutesDown": {
       "2023-02-03": 1168,
@@ -115,8 +113,7 @@
       "2022-06-22": 1440,
       "2022-06-21": 1440,
       "2022-06-20": 1440,
-      "2022-06-19": 843,
-      "2022-06-07": 56
+      "2022-06-19": 843
     }
   },
   {
@@ -125,18 +122,19 @@
     "icon": "https://raw.githubusercontent.com/SteffTek/Status/master/assets/favicon.png",
     "slug": "image-api",
     "status": "down",
-    "uptime": "41.61%",
+    "uptime": "41.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "3.66%",
+    "uptimeYear": "3.39%",
     "time": 625,
-    "timeDay": 660,
-    "timeWeek": 586,
-    "timeMonth": 599,
+    "timeDay": 730,
+    "timeWeek": 603,
+    "timeMonth": 607,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2023-06-06": 5,
+      "2023-06-07": 5,
+      "2023-06-06": 1440,
       "2023-06-05": 1440,
       "2023-06-04": 1440,
       "2023-06-03": 1440,
@@ -488,8 +486,7 @@
       "2022-06-22": 1440,
       "2022-06-21": 1440,
       "2022-06-20": 1440,
-      "2022-06-19": 842,
-      "2022-06-07": 55
+      "2022-06-19": 842
     }
   },
   {
@@ -498,18 +495,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/internet.stefftek.de.ico",
     "slug": "internet-game",
     "status": "down",
-    "uptime": "30.26%",
+    "uptime": "30.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.58%",
     "time": 657,
-    "timeDay": 865,
-    "timeWeek": 799,
-    "timeMonth": 722,
+    "timeDay": 680,
+    "timeWeek": 769,
+    "timeMonth": 726,
     "timeYear": 664,
     "dailyMinutesDown": {
-      "2023-06-06": 5,
+      "2023-06-07": 5,
+      "2023-06-06": 1440,
       "2023-06-05": 1440,
       "2023-06-04": 1440,
       "2023-06-03": 1440,
@@ -871,8 +869,7 @@
       "2022-06-11": 1440,
       "2022-06-10": 1440,
       "2022-06-09": 1440,
-      "2022-06-08": 1440,
-      "2022-06-07": 1440
+      "2022-06-08": 1440
     }
   },
   {
@@ -881,18 +878,19 @@
     "icon": "https://untubed.de/images/favicon.png",
     "slug": "un-tubed",
     "status": "down",
-    "uptime": "46.68%",
+    "uptime": "46.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "11.07%",
-    "time": 671,
+    "uptimeYear": "10.80%",
+    "time": 672,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 685,
+    "timeYear": 663,
     "dailyMinutesDown": {
-      "2023-06-06": 5,
+      "2023-06-07": 5,
+      "2023-06-06": 1440,
       "2023-06-05": 1440,
       "2023-06-04": 1440,
       "2023-06-03": 1440,
@@ -1221,8 +1219,7 @@
       "2022-07-01": 45,
       "2022-06-30": 18,
       "2022-06-21": 18,
-      "2022-06-19": 39,
-      "2022-06-07": 52
+      "2022-06-19": 39
     }
   },
   {
@@ -1231,18 +1228,19 @@
     "icon": "https://untubed.de/images/favicon.png",
     "slug": "un-tubed-api",
     "status": "down",
-    "uptime": "46.67%",
+    "uptime": "46.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "11.07%",
+    "uptimeYear": "10.80%",
     "time": 921,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 908,
+    "timeYear": 905,
     "dailyMinutesDown": {
-      "2023-06-06": 5,
+      "2023-06-07": 5,
+      "2023-06-06": 1440,
       "2023-06-05": 1440,
       "2023-06-04": 1440,
       "2023-06-03": 1440,
@@ -1571,8 +1569,7 @@
       "2022-07-01": 45,
       "2022-06-30": 18,
       "2022-06-21": 29,
-      "2022-06-19": 37,
-      "2022-06-07": 50
+      "2022-06-19": 37
     }
   },
   {
@@ -1581,18 +1578,19 @@
     "icon": "https://untubed.de/images/favicon.png",
     "slug": "un-tubed-webhook",
     "status": "down",
-    "uptime": "46.68%",
+    "uptime": "46.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "11.08%",
-    "time": 636,
+    "uptimeYear": "10.80%",
+    "time": 637,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 627,
+    "timeYear": 623,
     "dailyMinutesDown": {
-      "2023-06-06": 5,
+      "2023-06-07": 5,
+      "2023-06-06": 1440,
       "2023-06-05": 1440,
       "2023-06-04": 1440,
       "2023-06-03": 1440,
@@ -1921,8 +1919,7 @@
       "2022-07-01": 45,
       "2022-06-30": 18,
       "2022-06-21": 17,
-      "2022-06-19": 36,
-      "2022-06-07": 49
+      "2022-06-19": 36
     }
   }
 ]
