@@ -8,13 +8,13 @@
     "uptime": "97.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "63.20%",
+    "uptimeMonth": "66.49%",
     "uptimeYear": "93.33%",
-    "time": 944,
-    "timeDay": 704,
-    "timeWeek": 707,
-    "timeMonth": 2225,
-    "timeYear": 963,
+    "time": 943,
+    "timeDay": 509,
+    "timeWeek": 655,
+    "timeMonth": 2184,
+    "timeYear": 961,
     "dailyMinutesDown": {
       "2024-02-02": 23,
       "2024-02-01": 419,
@@ -55,16 +55,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dvs.stefftek.de.ico",
     "slug": "discord-virgin-slayer",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
     "time": 1284,
-    "timeDay": 997,
-    "timeWeek": 1189,
-    "timeMonth": 1294,
-    "timeYear": 1294,
+    "timeDay": 1110,
+    "timeWeek": 1123,
+    "timeMonth": 1299,
+    "timeYear": 1293,
     "dailyMinutesDown": {
       "2024-02-02": 49,
       "2023-08-16": 16,
@@ -77,14 +77,14 @@
     "icon": "https://virginslayer.app/images/favicon.png",
     "slug": "virgin-slayer-v3",
     "status": "up",
-    "uptime": "99.40%",
+    "uptime": "99.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 170,
-    "timeDay": 118,
-    "timeWeek": 130,
+    "timeDay": 128,
+    "timeWeek": 124,
     "timeMonth": 142,
     "timeYear": 172,
     "dailyMinutesDown": {
@@ -103,9 +103,9 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
     "time": 968,
-    "timeDay": 698,
-    "timeWeek": 815,
-    "timeMonth": 860,
+    "timeDay": 767,
+    "timeWeek": 765,
+    "timeMonth": 862,
     "timeYear": 931,
     "dailyMinutesDown": {
       "2024-02-02": 98,
@@ -119,18 +119,19 @@
     "icon": "https://raw.githubusercontent.com/SteffTek/Status/master/assets/favicon.png",
     "slug": "image-api",
     "status": "down",
-    "uptime": "29.46%",
+    "uptime": "29.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 560,
-    "timeDay": 444,
-    "timeWeek": 466,
-    "timeMonth": 542,
+    "timeDay": 482,
+    "timeWeek": 448,
+    "timeMonth": 543,
     "timeYear": 528,
     "dailyMinutesDown": {
-      "2024-02-12": 6,
+      "2024-02-13": 6,
+      "2024-02-12": 1440,
       "2024-02-11": 1440,
       "2024-02-10": 1440,
       "2024-02-09": 1440,
@@ -493,8 +494,7 @@
       "2023-02-17": 1440,
       "2023-02-16": 1440,
       "2023-02-15": 1440,
-      "2023-02-14": 1440,
-      "2023-02-13": 1440
+      "2023-02-14": 1440
     }
   },
   {
@@ -503,18 +503,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/internet.stefftek.de.ico",
     "slug": "internet-game",
     "status": "down",
-    "uptime": "21.20%",
+    "uptime": "21.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 655,
-    "timeDay": 532,
-    "timeWeek": 606,
-    "timeMonth": 660,
+    "timeDay": 588,
+    "timeWeek": 589,
+    "timeMonth": 663,
     "timeYear": 656,
     "dailyMinutesDown": {
-      "2024-02-12": 6,
+      "2024-02-13": 6,
+      "2024-02-12": 1440,
       "2024-02-11": 1440,
       "2024-02-10": 1440,
       "2024-02-09": 1440,
@@ -877,8 +878,7 @@
       "2023-02-17": 1440,
       "2023-02-16": 1440,
       "2023-02-15": 1440,
-      "2023-02-14": 1440,
-      "2023-02-13": 1440
+      "2023-02-14": 1440
     }
   },
   {
@@ -887,7 +887,7 @@
     "icon": "https://untubed.de/images/favicon.png",
     "slug": "un-tubed",
     "status": "down",
-    "uptime": "33.05%",
+    "uptime": "33.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -898,7 +898,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-12": 6,
+      "2024-02-13": 6,
+      "2024-02-12": 1440,
       "2024-02-11": 1440,
       "2024-02-10": 1440,
       "2024-02-09": 1440,
@@ -1261,8 +1262,7 @@
       "2023-02-17": 1440,
       "2023-02-16": 1440,
       "2023-02-15": 1440,
-      "2023-02-14": 1440,
-      "2023-02-13": 1440
+      "2023-02-14": 1440
     }
   },
   {
@@ -1271,7 +1271,7 @@
     "icon": "https://untubed.de/images/favicon.png",
     "slug": "un-tubed-api",
     "status": "down",
-    "uptime": "33.05%",
+    "uptime": "33.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1282,7 +1282,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-12": 6,
+      "2024-02-13": 6,
+      "2024-02-12": 1440,
       "2024-02-11": 1440,
       "2024-02-10": 1440,
       "2024-02-09": 1440,
@@ -1645,8 +1646,7 @@
       "2023-02-17": 1440,
       "2023-02-16": 1440,
       "2023-02-15": 1440,
-      "2023-02-14": 1440,
-      "2023-02-13": 1440
+      "2023-02-14": 1440
     }
   },
   {
@@ -1655,7 +1655,7 @@
     "icon": "https://untubed.de/images/favicon.png",
     "slug": "un-tubed-webhook",
     "status": "down",
-    "uptime": "33.05%",
+    "uptime": "33.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1666,7 +1666,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-12": 6,
+      "2024-02-13": 6,
+      "2024-02-12": 1440,
       "2024-02-11": 1440,
       "2024-02-10": 1440,
       "2024-02-09": 1440,
@@ -2029,8 +2030,7 @@
       "2023-02-17": 1440,
       "2023-02-16": 1440,
       "2023-02-15": 1440,
-      "2023-02-14": 1440,
-      "2023-02-13": 1440
+      "2023-02-14": 1440
     }
   }
 ]
