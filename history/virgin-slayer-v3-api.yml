@@ -1,7 +1,7 @@
 url: https://api.virginslayer.app/
-status: up
-code: 200
-responseTime: 808
-lastUpdated: 2024-08-17T18:32:47.010Z
+status: down
+code: 502
+responseTime: 472
+lastUpdated: 2024-08-17T18:47:17.203Z
 startTime: 2021-10-05T05:24:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
