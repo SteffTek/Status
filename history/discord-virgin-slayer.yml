@@ -1,7 +1,7 @@
 url: https://dvs.stefftek.de/
-status: up
-code: 200
-responseTime: 1011
-lastUpdated: 2024-10-19T23:01:21.634Z
+status: down
+code: 502
+responseTime: 4723
+lastUpdated: 2024-10-20T18:43:15.001Z
 startTime: 2021-10-05T05:24:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
