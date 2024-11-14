@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.60%",
-    "time": 996,
-    "timeDay": 7365,
-    "timeWeek": 3033,
-    "timeMonth": 1441,
-    "timeYear": 1087,
+    "time": 995,
+    "timeDay": 7269,
+    "timeWeek": 3032,
+    "timeMonth": 1439,
+    "timeYear": 1086,
     "dailyMinutesDown": {
       "2024-09-22": 34,
       "2024-09-06": 26,
@@ -63,18 +63,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dvs.stefftek.de.ico",
     "slug": "discord-virgin-slayer",
     "status": "down",
-    "uptime": "85.69%",
+    "uptime": "85.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "6.37%",
-    "uptimeYear": "56.50%",
+    "uptimeYear": "56.36%",
     "time": 1232,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 2006,
-    "timeYear": 1236,
+    "timeYear": 1234,
     "dailyMinutesDown": {
-      "2024-11-13": 701,
+      "2024-11-14": 7,
+      "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
       "2024-11-10": 1440,
@@ -250,18 +251,19 @@
     "icon": "https://virginslayer.app/images/favicon.png",
     "slug": "virgin-slayer-v3",
     "status": "down",
-    "uptime": "85.57%",
+    "uptime": "85.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "6.37%",
-    "uptimeYear": "56.51%",
+    "uptimeYear": "56.36%",
     "time": 166,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 118,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2024-11-13": 701,
+      "2024-11-14": 7,
+      "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
       "2024-11-10": 1440,
@@ -437,18 +439,19 @@
     "icon": "https://virginslayer.app/images/favicon.png",
     "slug": "virgin-slayer-v3-api",
     "status": "down",
-    "uptime": "85.23%",
+    "uptime": "85.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "6.38%",
-    "uptimeYear": "56.48%",
-    "time": 904,
+    "uptimeYear": "56.34%",
+    "time": 905,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 816,
-    "timeYear": 855,
+    "timeYear": 854,
     "dailyMinutesDown": {
-      "2024-11-13": 701,
+      "2024-11-14": 7,
+      "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
       "2024-11-10": 1440,
@@ -626,18 +629,19 @@
     "icon": "https://raw.githubusercontent.com/SteffTek/Status/master/assets/favicon.png",
     "slug": "image-api",
     "status": "down",
-    "uptime": "22.31%",
+    "uptime": "22.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 533,
-    "timeDay": 568,
-    "timeWeek": 559,
-    "timeMonth": 542,
-    "timeYear": 529,
+    "timeDay": 451,
+    "timeWeek": 555,
+    "timeMonth": 540,
+    "timeYear": 528,
     "dailyMinutesDown": {
-      "2024-11-13": 701,
+      "2024-11-14": 7,
+      "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
       "2024-11-10": 1440,
@@ -1000,8 +1004,7 @@
       "2023-11-19": 1440,
       "2023-11-18": 1440,
       "2023-11-17": 1440,
-      "2023-11-16": 1440,
-      "2023-11-15": 1440
+      "2023-11-16": 1440
     }
   },
   {
@@ -1010,7 +1013,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/internet.stefftek.de.ico",
     "slug": "internet-game",
     "status": "down",
-    "uptime": "15.96%",
+    "uptime": "15.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1019,9 +1022,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 490,
-    "timeYear": 624,
+    "timeYear": 623,
     "dailyMinutesDown": {
-      "2024-11-13": 701,
+      "2024-11-14": 7,
+      "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
       "2024-11-10": 1440,
@@ -1384,8 +1388,7 @@
       "2023-11-19": 1440,
       "2023-11-18": 1440,
       "2023-11-17": 1440,
-      "2023-11-16": 1440,
-      "2023-11-15": 1440
+      "2023-11-16": 1440
     }
   },
   {
@@ -1394,7 +1397,7 @@
     "icon": "https://untubed.de/images/favicon.png",
     "slug": "un-tubed",
     "status": "down",
-    "uptime": "25.03%",
+    "uptime": "25.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1405,7 +1408,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-13": 701,
+      "2024-11-14": 7,
+      "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
       "2024-11-10": 1440,
@@ -1768,8 +1772,7 @@
       "2023-11-19": 1440,
       "2023-11-18": 1440,
       "2023-11-17": 1440,
-      "2023-11-16": 1440,
-      "2023-11-15": 1440
+      "2023-11-16": 1440
     }
   },
   {
@@ -1778,7 +1781,7 @@
     "icon": "https://untubed.de/images/favicon.png",
     "slug": "un-tubed-api",
     "status": "down",
-    "uptime": "25.03%",
+    "uptime": "25.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1789,7 +1792,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-13": 701,
+      "2024-11-14": 7,
+      "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
       "2024-11-10": 1440,
@@ -2152,8 +2156,7 @@
       "2023-11-19": 1440,
       "2023-11-18": 1440,
       "2023-11-17": 1440,
-      "2023-11-16": 1440,
-      "2023-11-15": 1440
+      "2023-11-16": 1440
     }
   },
   {
@@ -2162,7 +2165,7 @@
     "icon": "https://untubed.de/images/favicon.png",
     "slug": "un-tubed-webhook",
     "status": "down",
-    "uptime": "25.03%",
+    "uptime": "25.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2173,7 +2176,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-13": 701,
+      "2024-11-14": 7,
+      "2024-11-13": 1440,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
       "2024-11-10": 1440,
@@ -2536,8 +2540,7 @@
       "2023-11-19": 1440,
       "2023-11-18": 1440,
       "2023-11-17": 1440,
-      "2023-11-16": 1440,
-      "2023-11-15": 1440
+      "2023-11-16": 1440
     }
   }
 ]
