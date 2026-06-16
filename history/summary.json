@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.52%",
-    "time": 976,
-    "timeDay": 490,
-    "timeWeek": 507,
-    "timeMonth": 1692,
-    "timeYear": 932,
+    "time": 975,
+    "timeDay": 412,
+    "timeWeek": 496,
+    "timeMonth": 1684,
+    "timeYear": 931,
     "dailyMinutesDown": {
       "2025-07-08": 512,
       "2025-07-31": 109,
@@ -49,18 +49,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dvs.stefftek.de.ico",
     "slug": "discord-virgin-slayer",
     "status": "down",
-    "uptime": "56.76%",
+    "uptime": "56.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 16755,
-    "timeDay": 318,
-    "timeWeek": 247,
-    "timeMonth": 4622,
-    "timeYear": 16758,
+    "time": 16753,
+    "timeDay": 316,
+    "timeWeek": 273,
+    "timeMonth": 4627,
+    "timeYear": 16704,
     "dailyMinutesDown": {
-      "2026-06-15": 36,
+      "2026-06-16": 42,
+      "2026-06-15": 1440,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
@@ -423,8 +424,7 @@
       "2025-06-20": 1440,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
-      "2025-06-17": 1440,
-      "2025-06-16": 1440
+      "2025-06-17": 1440
     }
   },
   {
@@ -433,18 +433,19 @@
     "icon": "https://virginslayer.app/images/favicon.png",
     "slug": "virgin-slayer-v3",
     "status": "down",
-    "uptime": "56.68%",
+    "uptime": "56.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 16521,
-    "timeDay": 284,
-    "timeWeek": 271,
-    "timeMonth": 2694,
-    "timeYear": 16541,
+    "timeDay": 305,
+    "timeWeek": 281,
+    "timeMonth": 2698,
+    "timeYear": 16488,
     "dailyMinutesDown": {
-      "2026-06-15": 36,
+      "2026-06-16": 42,
+      "2026-06-15": 1440,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
@@ -807,8 +808,7 @@
       "2025-06-20": 1440,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
-      "2025-06-17": 1440,
-      "2025-06-16": 1440
+      "2025-06-17": 1440
     }
   },
   {
@@ -817,18 +817,19 @@
     "icon": "https://virginslayer.app/images/favicon.png",
     "slug": "virgin-slayer-v3-api",
     "status": "down",
-    "uptime": "56.46%",
+    "uptime": "56.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 16590,
+    "time": 16589,
     "timeDay": 315,
-    "timeWeek": 266,
-    "timeMonth": 2704,
-    "timeYear": 16548,
+    "timeWeek": 280,
+    "timeMonth": 2709,
+    "timeYear": 16496,
     "dailyMinutesDown": {
-      "2026-06-15": 36,
+      "2026-06-16": 42,
+      "2026-06-15": 1440,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
@@ -1191,8 +1192,7 @@
       "2025-06-20": 1440,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
-      "2025-06-17": 1440,
-      "2025-06-16": 1440
+      "2025-06-17": 1440
     }
   },
   {
@@ -1201,18 +1201,19 @@
     "icon": "https://raw.githubusercontent.com/SteffTek/Status/master/assets/favicon.png",
     "slug": "image-api",
     "status": "down",
-    "uptime": "14.78%",
+    "uptime": "14.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 1069,
-    "timeDay": 275,
-    "timeWeek": 280,
-    "timeMonth": 248,
-    "timeYear": 1260,
+    "timeDay": 274,
+    "timeWeek": 284,
+    "timeMonth": 245,
+    "timeYear": 1259,
     "dailyMinutesDown": {
-      "2026-06-15": 36,
+      "2026-06-16": 42,
+      "2026-06-15": 1440,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
@@ -1575,8 +1576,7 @@
       "2025-06-20": 1440,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
-      "2025-06-17": 1440,
-      "2025-06-16": 1440
+      "2025-06-17": 1440
     }
   },
   {
@@ -1590,13 +1590,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 16589,
-    "timeDay": 275,
-    "timeWeek": 265,
-    "timeMonth": 2710,
-    "timeYear": 16584,
+    "time": 16588,
+    "timeDay": 284,
+    "timeWeek": 273,
+    "timeMonth": 2714,
+    "timeYear": 16531,
     "dailyMinutesDown": {
-      "2026-06-15": 36,
+      "2026-06-16": 42,
+      "2026-06-15": 1440,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
@@ -1959,8 +1960,7 @@
       "2025-06-20": 1440,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
-      "2025-06-17": 1440,
-      "2025-06-16": 1440
+      "2025-06-17": 1440
     }
   },
   {
@@ -1969,7 +1969,7 @@
     "icon": "https://untubed.de/images/favicon.png",
     "slug": "un-tubed",
     "status": "down",
-    "uptime": "16.58%",
+    "uptime": "16.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1980,7 +1980,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-15": 36,
+      "2026-06-16": 42,
+      "2026-06-15": 1440,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
@@ -2343,8 +2344,7 @@
       "2025-06-20": 1440,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
-      "2025-06-17": 1440,
-      "2025-06-16": 1440
+      "2025-06-17": 1440
     }
   },
   {
@@ -2353,7 +2353,7 @@
     "icon": "https://untubed.de/images/favicon.png",
     "slug": "un-tubed-api",
     "status": "down",
-    "uptime": "16.58%",
+    "uptime": "16.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2364,7 +2364,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-15": 36,
+      "2026-06-16": 42,
+      "2026-06-15": 1440,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
@@ -2727,8 +2728,7 @@
       "2025-06-20": 1440,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
-      "2025-06-17": 1440,
-      "2025-06-16": 1440
+      "2025-06-17": 1440
     }
   },
   {
@@ -2737,7 +2737,7 @@
     "icon": "https://untubed.de/images/favicon.png",
     "slug": "un-tubed-webhook",
     "status": "down",
-    "uptime": "16.58%",
+    "uptime": "16.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2748,7 +2748,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-15": 36,
+      "2026-06-16": 42,
+      "2026-06-15": 1440,
       "2026-06-14": 1440,
       "2026-06-13": 1440,
       "2026-06-12": 1440,
@@ -3111,8 +3112,7 @@
       "2025-06-20": 1440,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
-      "2025-06-17": 1440,
-      "2025-06-16": 1440
+      "2025-06-17": 1440
     }
   }
 ]
