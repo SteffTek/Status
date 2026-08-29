@@ -4,17 +4,17 @@
     "url": "https://stefftek.de/",
     "icon": "https://icons.duckduckgo.com/ip3/stefftek.de.ico",
     "slug": "steff-tek-de",
-    "status": "down",
-    "uptime": "97.50%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "98.63%",
+    "status": "up",
+    "uptime": "97.49%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "98.60%",
     "uptimeYear": "99.53%",
-    "time": 877,
-    "timeDay": 289,
-    "timeWeek": 761,
-    "timeMonth": 604,
-    "timeYear": 827,
+    "time": 876,
+    "timeDay": 329,
+    "timeWeek": 729,
+    "timeMonth": 599,
+    "timeYear": 826,
     "dailyMinutesDown": {
       "2025-09-17": 25,
       "2025-10-08": 372,
@@ -43,7 +43,7 @@
       "2026-07-30": 226,
       "2026-08-03": 42,
       "2026-08-25": 16,
-      "2026-08-29": 4
+      "2026-08-29": 17
     }
   },
   {
@@ -52,7 +52,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dvs.stefftek.de.ico",
     "slug": "discord-virgin-slayer",
     "status": "down",
-    "uptime": "54.37%",
+    "uptime": "54.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -63,7 +63,7 @@
     "timeMonth": 914,
     "timeYear": 12842,
     "dailyMinutesDown": {
-      "2026-08-29": 844,
+      "2026-08-29": 861,
       "2026-08-28": 1440,
       "2026-08-27": 1440,
       "2026-08-26": 1440,
@@ -447,7 +447,7 @@
     "timeMonth": 299,
     "timeYear": 12932,
     "dailyMinutesDown": {
-      "2026-08-29": 844,
+      "2026-08-29": 861,
       "2026-08-28": 1440,
       "2026-08-27": 1440,
       "2026-08-26": 1440,
@@ -831,7 +831,7 @@
     "timeMonth": 347,
     "timeYear": 12942,
     "dailyMinutesDown": {
-      "2026-08-29": 844,
+      "2026-08-29": 861,
       "2026-08-28": 1440,
       "2026-08-27": 1440,
       "2026-08-26": 1440,
@@ -1215,7 +1215,7 @@
     "timeMonth": 284,
     "timeYear": 1204,
     "dailyMinutesDown": {
-      "2026-08-29": 844,
+      "2026-08-29": 861,
       "2026-08-28": 1440,
       "2026-08-27": 1440,
       "2026-08-26": 1440,
@@ -1599,7 +1599,7 @@
     "timeMonth": 934,
     "timeYear": 12671,
     "dailyMinutesDown": {
-      "2026-08-29": 844,
+      "2026-08-29": 861,
       "2026-08-28": 1440,
       "2026-08-27": 1440,
       "2026-08-26": 1440,
@@ -1983,7 +1983,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-29": 844,
+      "2026-08-29": 861,
       "2026-08-28": 1440,
       "2026-08-27": 1440,
       "2026-08-26": 1440,
@@ -2367,7 +2367,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-29": 844,
+      "2026-08-29": 861,
       "2026-08-28": 1440,
       "2026-08-27": 1440,
       "2026-08-26": 1440,
@@ -2751,7 +2751,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-29": 844,
+      "2026-08-29": 861,
       "2026-08-28": 1440,
       "2026-08-27": 1440,
       "2026-08-26": 1440,
